@@ -25,7 +25,7 @@ O script força a troca de senha no primeiro acesso para todos os usuários cria
 **Como usar:**
 
 1.  **Obtenha o script:**
-    - Clone o repositório: `git clone https://github.com/seu_usuario/seu_repositorio.git`
+    - Clone o repositório: `git clone https://github.com/GleristonCastro/seu_repositorio.git`
     - Ou baixe o arquivo `groups_permissions.sh` diretamente.
 2.  **Dê permissão de execução:**
     ```shell
